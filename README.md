@@ -1,1 +1,3 @@
 # Download_Dropbox
+
+Dropbox is conveient to share files across research teams. However, it requires data to be downloaded to local computer then able to interact with data. This may create inconvience when interacting big data which cannot be downloaded to local computer or complicated interactions with the data. Normally if the admin from research team can help to generate access token of Dropbox which might be a easier way to interact with data. However, sometimes it may be time-comsuing or hard to get the access token when it comes to data sharing policy. But still, using access token should be the top 1 option. Otherwise, you could use this Download_Dropbox as the alternative. 
